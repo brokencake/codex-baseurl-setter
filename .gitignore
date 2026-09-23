@@ -1,0 +1,5 @@
+.DS_Store
+*.hex
+config.v*.toml
+*.v[0-9]*.command
+README.v[0-9]*.md
